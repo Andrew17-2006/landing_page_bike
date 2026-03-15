@@ -1,4 +1,22 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Bike Landing Page
+
+A responsive landing page for a bike shop.
+
+## Technologies
+
+- HTML
+- SCSS (BEM)
+- Parcel
+
+## Run locally
+```bash
+npm install
+npm start
+```
+
+Open [http://localhost:1234](http://localhost:1234) in your browser.
+
+## Deploy
+```bash
+npm run deploy
+```
