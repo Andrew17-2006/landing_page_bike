@@ -5,7 +5,7 @@ built with clean semantic HTML and modular SCSS
 following BEM methodology.
 
 ## 🌐 Live Demo
-[View Live]([https://your-demo-link.com](https://andrew17-2006.github.io/landing_page_bike/))
+[View Live](https://andrew17-2006.github.io/landing_page_bike/)
 
 ## ✨ Features
 - Fully responsive layout (mobile, tablet, desktop)
